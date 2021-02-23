@@ -11,7 +11,7 @@
 My name is Gabriel, graduated in Analysis and Systems Development, currently as a fullstack developer and in search of more knowledge always.
 </p>
 
-<br />
+---
 
 <p> <strong>Languages and Tools...</strong></p>
 
@@ -49,21 +49,8 @@ My name is Gabriel, graduated in Analysis and Systems Development, currently as 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gborodrigues&theme=tokyonight&layout=compact)](https://github.com/gborodrigues/github-readme-stats)
 
-<!-- [![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gborodrigues)](https://github.com/gborodrigues/github-readme-stats) -->
+---
+
+[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gborodrigues)](https://github.com/gborodrigues/github-readme-stats)
 
 </p>
-
-<!--
-**gborodrigues/gborodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
